@@ -1,5 +1,7 @@
 📌 Business Questions
 
+These business questions guide the analysis performed in the Retail Sales & Profitability Dashboard. They focus on sales performance, profitability, customer behavior, product trends, and operational efficiency.
+
 🛒 1. Sales Performance
 -What are total sales for the selected period
 
