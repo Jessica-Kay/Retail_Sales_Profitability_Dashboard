@@ -4,26 +4,27 @@ This document explains the Power Query transformations applied to the Orders and
 
 🛒 1. Orders Query
 Purpose
+
 Prepare the Orders dataset for analysis by:
+-Promoting headers
 
-Promoting headers
+-Setting correct data types
 
-Setting correct data types
+-Cleaning text fields
 
-Cleaning text fields
-
-Creating the Profit Margin calculated column
+-Creating the Profit Margin calculated column
 
 Key Transformations
-Converted date fields to proper date types
+-Converted date fields to proper date types
 
-Converted numeric fields (Sales, Profit, Quantity, Discount)
+-Converted numeric fields (Sales, Profit, Quantity, Discount)
 
-Trimmed text fields to remove extra spaces
+-Trimmed text fields to remove extra spaces
 
-Added Profit Margin column using Profit / Sales
+-Added Profit Margin column using Profit / Sales
 
 M‑Code
+
 let
     Source = Excel.Workbook(File.Contents("C:\Retail\orders.xlsx"), null, true),
     Orders_Sheet = Source{[Item="Orders",Kind="Sheet"]}[Data],
@@ -58,18 +59,19 @@ let
         {"Product Name", Text.Trim, type text}
     })
 
-    🔄 2. Returns Query
+🔄 2. Returns Query
 Purpose
 Prepare the Returns dataset and create a Return Flag for easier analysis.
 
 Key Transformations
-Promoted headers
+-Promoted headers
 
-Set correct data types
+-Set correct data types
 
-Added Return Flag column (true/false)
+-Added Return Flag column (true/false)
 
 M‑Code
+
 let
     Source = Excel.Workbook(File.Contents("C:\Retail\returns.xlsx"), null, true),
     Returns_Sheet = Source{[Item="Returns",Kind="Sheet"]}[Data],
@@ -88,13 +90,14 @@ Purpose
 Combine the Orders and Returns tables to create a single dataset with return information included.
 
 Key Transformations
-Left join on Order ID
+-Left join on Order ID
 
-Expanded the Return Flag column
+-Expanded the Return Flag column
 
-Replaced null values with false
+-Replaced null values with false
 
 M‑Code
+
 let
     Orders = Orders_Query,
     Returns = Returns_Query,
@@ -123,9 +126,9 @@ in
 ⭐ Summary
 This Power Query process ensures:
 
-Clean, typed, analysis‑ready data
+-Clean, typed, analysis‑ready data
 
-Accurate Profit Margin calculations
+-Accurate Profit Margin calculations
 
 A unified dataset with return behavior included
 
