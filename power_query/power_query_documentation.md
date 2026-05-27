@@ -2,6 +2,8 @@
  
 This document explains the Power Query transformations applied to the Orders and Returns tables, including data cleaning, calculated fields, and the merge process used to create the final analysis dataset.
 
+---
+
 🛒 1. Orders Query
 Purpose
 
@@ -58,6 +60,8 @@ let
         {"Customer Name", Text.Trim, type text},
         {"Product Name", Text.Trim, type text}
     })
+
+---
 
 🔄 2. Returns Query
 Purpose
@@ -122,6 +126,8 @@ let
     )
 in
     CleanReturnFlag
+
+---
 
 ⭐ Summary
 This Power Query process ensures:
