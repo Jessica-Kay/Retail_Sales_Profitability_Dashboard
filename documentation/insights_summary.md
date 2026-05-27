@@ -23,48 +23,48 @@
 -Sub‑categories with high sales but low profit margins present opportunities for cost optimization
 
 📦 3. Product & Category Insights
-Technology products dominate both sales and profit performance
+-Technology products dominate both sales and profit performance
 
-Office Supplies shows the lowest return rate, indicating strong product satisfaction
+-Office Supplies shows the lowest return rate, indicating strong product satisfaction
 
-Furniture categories show stable performance with minimal volatility
+-Furniture categories show stable performance with minimal volatility
 
-Several sub‑categories show high sales volume but lower profitability, suggesting margin pressure
+-Several sub‑categories show high sales volume but lower profitability, suggesting margin pressure
 
 🌍 4. Regional Insights
-West region leads in both sales and profit contribution
+-West region leads in both sales and profit contribution
 
-East region shows strong profit growth with improving YoY trends
+-East region shows strong profit growth with improving YoY trends
 
-Central region displays moderate performance with opportunities for targeted improvement
+-Central region displays moderate performance with opportunities for targeted improvement
 
-South region shows lower profit margins despite steady sales
+-South region shows lower profit margins despite steady sales
 
 🔄 5. Returns & Operational Insights
-Overall return rate remains low, with Office Supplies performing best
+-Overall return rate remains low, with Office Supplies performing best
 
-Returned orders disproportionately impact profit in specific states
+-Returned orders disproportionately impact profit in specific states
 
-High‑return sub‑categories may require quality review or fulfillment adjustments
+-High‑return sub‑categories may require quality review or fulfillment adjustments
 
-Regions with higher return rates show corresponding dips in profit margin
+-Regions with higher return rates show corresponding dips in profit margin
 
 📈 6. Time‑Based Trends
-2025 shows the strongest YoY growth across categories
+-2025 shows the strongest YoY growth across categories
 
-Q4 consistently outperforms all other quarters in both sales and profit
+-Q4 consistently outperforms all other quarters in both sales and profit
 
-Seasonal patterns indicate predictable spikes that support inventory planning
+-Seasonal patterns indicate predictable spikes that support inventory planning
 
-Profitability trends align closely with discounting behavior and return rates
+-Profitability trends align closely with discounting behavior and return rates
 
 🎯 7. Strategic Opportunities
-Increase investment in Technology and Office Supplies due to strong growth and low return rates
+-Increase investment in Technology and Office Supplies due to strong growth and low return rates
 
-Review pricing and discount strategies for categories with high sales but low margins
+-Review pricing and discount strategies for categories with high sales but low margins
 
-Target Texas and other low‑profit states for operational or product improvements
+-Target Texas and other low‑profit states for operational or product improvements
 
-Expand marketing efforts in high‑performing regions to maximize revenue potential
+-Expand marketing efforts in high‑performing regions to maximize revenue potential
 
 Reduce return rates in specific sub‑categories to protect profit margins
