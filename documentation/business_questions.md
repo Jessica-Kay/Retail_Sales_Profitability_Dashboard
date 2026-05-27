@@ -2,6 +2,8 @@
  
 These business questions guide the analysis performed in the Retail Sales & Profitability Dashboard. They focus on sales performance, profitability, customer behavior, product trends, and operational efficiency.
 
+---
+
 🛒 1. Sales Performance
 -What are total sales for the selected period
 
@@ -12,6 +14,8 @@ These business questions guide the analysis performed in the Retail Sales & Prof
 -Which customer segments contribute the most revenue
 
 -What is the average order value (AOV), and how does it differ by segment or region
+
+---
 
 💰 2. Profitability
 -What is the overall profit and profit margin for the business
@@ -24,6 +28,8 @@ These business questions guide the analysis performed in the Retail Sales & Prof
 
 -How do discounts impact profit margins
 
+---
+
 📦 3. Product & Category Insights
 -Which products are top sellers by revenue
 
@@ -33,12 +39,16 @@ These business questions guide the analysis performed in the Retail Sales & Prof
 
 -How do product returns affect category performance
 
+---
+
 🌍 4. Regional & Geographic Trends
 -Which regions drive the most sales and profit
 
 -Are there geographic areas with declining or growing performance
 
 -How does profitability vary by region
+
+---
 
 🔄 5. Returns & Operational Efficiency
 -What percentage of orders are returned
@@ -49,6 +59,8 @@ These business questions guide the analysis performed in the Retail Sales & Prof
 
 -How do returns impact overall profitability
 
+---
+
 📈 6. Time‑Based Trends
 -How do sales and profit trend over time (monthly, quarterly, yearly)
 
@@ -56,12 +68,16 @@ These business questions guide the analysis performed in the Retail Sales & Prof
 
 -What is the year‑over‑year (YoY) growth rate
 
+---
+
 👥 7. Customer Behavior
 -Which customer segments generate the most revenue and profit
 
 -How does purchasing behavior differ between Consumer, Corporate, and Home Office segments
 
 -Are certain segments more sensitive to discounts
+
+---
 
 🎯 8. Strategic Opportunities
 -Which categories or regions should the business invest more in
