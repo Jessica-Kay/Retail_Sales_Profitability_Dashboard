@@ -1,4 +1,5 @@
 📊 Business Insights
+These insights summarize the key performance patterns identified through the analysis of sales, profit, returns, and customer behavior across product categories, regions, and time periods.
 
 🛒 1. Sales Performance Insights
 -Technology leads overall sales growth with strong YoY momentum
