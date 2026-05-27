@@ -130,8 +130,8 @@ This Power Query process ensures:
 
 -Accurate Profit Margin calculations
 
-A unified dataset with return behavior included
+-A unified dataset with return behavior included
 
-Consistent formatting for downstream PivotTables and dashboards
+-Consistent formatting for downstream PivotTables and dashboards
 in
     TrimmedText
