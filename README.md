@@ -5,7 +5,7 @@
 🟦 Excel & Power Query | 📊 PivotTables & PivotCharts | 📁 Data Cleaning | 📉 Trend Analysis
 
 <div align="center">
-  <img src="Images/Superstore_Dashboard_Screenshot.png" width="800">
+  <img src="images/Superstore_Dashboard_Screenshot.png" width="800">
 </div>
 
 This project delivers an interactive Excel dashboard analyzing multi‑year retail performance across Sales, Profit, Category trends, Regional contribution, and Return behavior. The dashboard is designed for fast executive‑level insight, with clean visual structure, consistent formatting, and a dedicated Key Insights panel summarizing the most important findings.
