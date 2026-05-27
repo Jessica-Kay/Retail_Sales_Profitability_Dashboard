@@ -1,5 +1,5 @@
 📘 Power Query Documentation
-
+ 
 This document explains the Power Query transformations applied to the Orders and Returns tables, including data cleaning, calculated fields, and the merge process used to create the final analysis dataset.
 
 🛒 1. Orders Query
